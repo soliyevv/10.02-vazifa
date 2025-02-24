@@ -1,3 +1,22 @@
-let myVar = "Salom";
+// let myVar = "Salom";
 
-myVar && console.log("Bor");
+// myVar && console.log("Bor");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
