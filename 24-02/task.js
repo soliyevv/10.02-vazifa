@@ -5,6 +5,12 @@
 
 
 
+logTitle('vazifalar');
+
+ 
+
+
+
 
 
 
